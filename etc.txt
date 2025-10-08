@@ -1,0 +1,9 @@
+P/ ativar os scripts no widnows
+
+.\env\Scripts\activate
+
+No MACOS
+source env/bin/activate
+
+requerimets
+pip install jupyter pandas numpy matplotlib scikit-learn
